@@ -1,0 +1,9 @@
+utils/BasePage.class
+stepDefinition/Hooks.class
+enums/Browsers.class
+stepDefinition/LoginSteps.class
+utils/ReadProperties.class
+stepDefinition/HomeSteps.class
+pages/login/LoginPage.class
+runner/RunnerTest.class
+pages/home/HomePage.class
