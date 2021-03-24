@@ -1,0 +1,10 @@
+{
+  "platformName": "ios",
+  "platformVersion": "13.2",
+  "platform": "MAC",
+  "deviceName": "iPhone_11_Pro",
+  "noSign" : true,
+  "noReset": false,
+  "automationName": "XCUITest"
+}
+

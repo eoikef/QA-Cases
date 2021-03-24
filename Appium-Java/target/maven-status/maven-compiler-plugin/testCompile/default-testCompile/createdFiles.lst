@@ -1,0 +1,11 @@
+stepDefinition/Hooks.class
+capabilities/LoadCapabilities$1.class
+capabilities/AndroidDevicesCapabilities.class
+capabilities/LoadCapabilities.class
+screens/CalculatorScreen.class
+utils/BaseScreen.class
+capabilities/IOSDevicesCapabilities.class
+stepDefinition/SubtractionSteps.class
+stepDefinition/AddictionSteps.class
+runner/RunnerTest.class
+utils/AppiumManager.class

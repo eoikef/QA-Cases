@@ -1,0 +1,10 @@
+{
+  "platformName": "Android",
+  "deviceName": "L2AIB600N8728SC",
+  "noSign": true,
+  "noReset": false,
+  "automationName": "UiAutomator2",
+  "appPackage": "com.asus.calculator",
+  "appActivity": "com.asus.calculator.Calculator"
+}
+
