@@ -1,0 +1,37 @@
+{
+  "properties": {
+    "status": {
+      "type": "string"
+    },
+
+    "data": {
+      "type": "object",
+
+      "properties": {
+        "id": {
+          "type": "integer"
+        },
+
+        "employee_name": {
+          "type": "string"
+        },
+
+        "employee_salary": {
+          "type": "integer"
+        },
+
+        "employee_age": {
+          "type": "integer"
+        },
+
+        "profile_image": {
+          "type": "string"
+        }
+      }
+    },
+
+    "message": {
+      "type": "string"
+    }
+  }
+}

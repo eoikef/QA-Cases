@@ -1,0 +1,6 @@
+uri:
+  jsonplaceholder_posts:
+    url: https://jsonplaceholder.typicode.com/
+
+  dummy_v1_employee:
+    url: http://dummy.restapiexample.com/

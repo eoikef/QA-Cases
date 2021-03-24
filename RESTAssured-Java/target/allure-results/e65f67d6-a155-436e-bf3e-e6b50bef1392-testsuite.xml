@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1616579558007" stop="1616579564909" version="1.5.4" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>tests.JsonPlaceholderPostsTest</name>
+    <test-cases>
+        <test-case start="1616579563014" stop="1616579564906" status="passed">
+            <name>contract_Get_JsonPlaceholder_Posts</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="MAC70375"/>
+                <label name="thread" value="43679@MAC70375.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="JUnit"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

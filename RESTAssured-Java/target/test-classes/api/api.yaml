@@ -1,0 +1,13 @@
+api:
+  dummy_v1_employee:
+    method: GET
+    path: api/v1/employee/{id}
+    successStatusCode: 200
+    responseSchema: dummy_v1_employee
+
+  jsonplaceholder_posts:
+     method: GET
+     path: posts/{id}
+     successStatusCode: 200
+     responseSchema: jsonplaceholder_posts
+
